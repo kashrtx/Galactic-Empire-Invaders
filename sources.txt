@@ -1,0 +1,23 @@
+Learned/used some code from: https://thepythoncode.com/article/make-a-space-invader-game-in-python
+			https://codersports.com/2023/04/25/learn-to-code-space-invaders/
+
+tie-fighter sprite: https://dinopixel.com/pixel-art/darth-vader-s-tie-advanced/22345
+x-wing: https://png.pngtree.com/png-clipart/20230330/ourmid/pngtree-warship-original-design-png-image_6675226.png
+background: https://i.pinimg.com/originals/1e/64/c3/1e64c3289a248160c26a3b57b221e282.png
+death star: https://www.pngitem.com/pimgs/b/110-1101345_death-star-png-download-vector-death-star-svg.png
+laser assets: https://wenrexa.itch.io/laser2020
+heart sprite: https://www.cleanpng.com/png-health-video-game-pixel-art-bar-pixel-evolution-3899531/
+
+background music: https://www.youtube.com/watch?v=a8g1xeigfp8
+player laser sound: https://www.youtube.com/watch?v=tO1ZrUeeSoI
+enemy laser sound: https://www.youtube.com/watch?v=QJpmy3GV9VI
+boss laser sound: https://www.youtube.com/watch?v=inl8EzmAopE
+
+boss fight music: https://www.youtube.com/watch?v=zMt8oDxOhb8
+big explosion fx: https://pixabay.com/sound-effects/hq-explosion-6288/
+small explosion: https://pixabay.com/sound-effects/explosion-6055/
+health pickup sound: https://pixabay.com/sound-effects/health-pickup-6860/
+game loss sound: https://pixabay.com/sound-effects/wah-wah-sad-trombone-6347/
+game win sound: https://pixabay.com/sound-effects/065492-tadawav-80833/
+
+Damaged version of tie-fighter and death-star were edited by me in Paint 3D.
